@@ -1,4 +1,4 @@
-# Advance-House-Price-Prediction
+# Advance House Price Prediction
 <h1>About Dataset </h2>
 <p>I took this dataset form kaggle url : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview. This dataset is an Alternative to the Boston Housing Data and good fit for a Regression Project. This is the original url of the paper : http://jse.amstat.org/v19n3/decock.pdf.</p>
 <p>This dataset contains a large number of features and and missing values which makes it good fit for both EDA and feature engineering along with model selection.</p>
@@ -58,4 +58,4 @@
          RMSE : 24374.994525927406
          R2 Score : 0.9013682963533898</pre>
          
-  <p>Overall Winners : Ridge , SVR , Random Forest,Gradient boost.</p>
+  <p>Overall best algorithms : Ridge , SVR , Random Forest,Gradient boost.</p>
