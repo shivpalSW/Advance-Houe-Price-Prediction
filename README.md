@@ -58,4 +58,4 @@
          RMSE : 24374.994525927406
          R2 Score : 0.9013682963533898</pre>
          
-  <p>Overall best algorithms : Ridge , SVR , Random Forest,Gradient boost.</p>
+  <p> Overall best algorithms : Ridge , SVR , Random Forest,Gradient boost.</p>
